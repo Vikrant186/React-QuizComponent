@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 
-    class QuizQuestion extends Component{
+class QuizQuestion extends Component{
         render(){
             return(
                 <main>
@@ -19,5 +19,5 @@ import React, {Component} from 'react'
                 </main>
             )
         }
-    }
-    export default QuizQuestion
+}
+export default QuizQuestion
